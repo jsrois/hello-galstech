@@ -1,2 +1,2 @@
 # hello-galstech
-Hello! 
+Hello from EMEA! 
